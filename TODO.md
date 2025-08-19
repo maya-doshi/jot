@@ -1,0 +1,4 @@
+- [ ] fix secret management
+- [ ] package properly
+- [ ] add more backends
+- [ ] clean up main function
